@@ -16,7 +16,7 @@ Create 2 more static webpages with the same content yet create a completely diff
   * In 1 of the 2 new forms, use external CSS
 
 ## 3. Advance CSS
-Create a simple website with a navigation bar, and a CSS img gallery. 
+Create a simple website with a navigation bar 
   * Use floating, nested divs for all positioning. 
   * Create at least four pages for this site 
     * home, plus three more. 
