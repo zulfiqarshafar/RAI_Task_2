@@ -1,0 +1,26 @@
+body{
+	background-color:#C8F7C5;
+	font-family:Tahoma;
+	font-size:15px;
+}
+
+.header ul{
+	list-style-type: none;
+}
+
+.header li{
+	display: inline;
+}
+
+.header{
+	padding: 0.5em;
+	background-color: #1BBC9B;
+}
+
+.header a{
+	background-color: #1BBC9B;
+	font-family:Calibri;
+	font-size:20px;
+	padding-right: 20px;
+    padding-left: 20px;
+}
